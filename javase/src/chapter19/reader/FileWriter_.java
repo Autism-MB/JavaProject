@@ -27,6 +27,7 @@ public class FileWriter_ {
             e.printStackTrace();
         } finally {
             try {
+                System.out.println("推送");
                 fileWriter.close();
             } catch (IOException e) {
                 e.printStackTrace();
