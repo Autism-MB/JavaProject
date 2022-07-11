@@ -1,4 +1,4 @@
-package chapter19.outputstream;
+package chapter19.outputstream_;
 
 import org.junit.Test;
 

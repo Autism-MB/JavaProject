@@ -1,4 +1,4 @@
-package chapter19.reader;
+package chapter19.reader_;
 
 import org.junit.Test;
 

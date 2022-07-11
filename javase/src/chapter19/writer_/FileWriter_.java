@@ -1,4 +1,4 @@
-package chapter19.reader;
+package chapter19.writer_;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -27,6 +27,7 @@ public class FileWriter_ {
             e.printStackTrace();
         } finally {
             try {
+                System.out.println("推送");
                 fileWriter.close();
             } catch (IOException e) {
                 e.printStackTrace();
