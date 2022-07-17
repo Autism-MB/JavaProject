@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaProject.iml" filepath="$PROJECT_DIR$/JavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataStruct/dataStruct.iml" filepath="$PROJECT_DIR$/dataStruct/dataStruct.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase/javase.iml" filepath="$PROJECT_DIR$/javase/javase.iml" />
     </modules>
   </component>
