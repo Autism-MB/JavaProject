@@ -56,6 +56,7 @@ public class MyArrayList<Int> implements Iterable<Int> {
         return old;
     }
 
+    //收缩数组
     public void ensureCapacity(int newCapacity) {
         if (newCapacity < theSize) {
             return;
