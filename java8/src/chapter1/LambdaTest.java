@@ -38,6 +38,18 @@ public class LambdaTest {
                 return Integer.compare(01, 02);
             }
         };
-        com1.compare(12, 21);
+        int compare1 = com1.compare(12, 21);
+        System.out.println(compare1);
+        System.out.println("========================");
+
+        Comparator<Integer> com2 = (o1, o2) -> Integer.compare(o1, o2);
+        int compare2 = com2.compare(32, 21);
+        System.out.println(compare2);
+        System.out.println("========================");
+
+        Comparator<Integer> com3 = Integer :: compare;
+        int compare3 = com3.compare(32, 21);
+        System.out.println(compare3);
+
     }
 }
