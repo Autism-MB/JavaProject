@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/dataStruct/dataStruct.iml" filepath="$PROJECT_DIR$/dataStruct/dataStruct.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase/javase.iml" filepath="$PROJECT_DIR$/javase/javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/javaweb.iml" filepath="$PROJECT_DIR$/javaweb/javaweb.iml" />
     </modules>
   </component>
 </project>
